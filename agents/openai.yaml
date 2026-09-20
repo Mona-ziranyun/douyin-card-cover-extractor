@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音主页卡片封面提取"
+  short_description: "提取抖音视频未点开前的主页卡片封面，并完成逐张质量检查"
+  default_prompt: "使用 $douyin-card-cover-extractor 从这张表格的前 50 条视频中提取未点开前显示的卡片封面，并先保存到桌面待我确认。"
